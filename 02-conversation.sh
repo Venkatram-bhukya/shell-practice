@@ -1,9 +1,9 @@
 #!/bin/bash
 
-echo "suresh:: Hello ramesh, How are you?"
-echo "ramesh:: Hi suresh, I am fine thanks for asking, How are you doing?"
-echo "suresh:: doing fine, what are you lerning ramesh?"
-echo "ramesh:: I am learning shell, what about you?"
+echo "Vemkatram:: Hello Bindu Priya, How are you?"
+echo "Bindu Priya:: Hi Vemkatram, I am fine thanks for asking, How are you doing?"
+echo "Vemkatram:: doing fine, what are you lerning Bindu Priya?"
+echo "Bindu Priya:: I am learning shell, what about you?"
 
 
 
