@@ -27,4 +27,4 @@ dnf install mysql -y &>> $LOGS_FILE
 VALIDATE $? "Installing Mysql"
 
 dnf install nodejs -y &>> $LOGS_FILE 
-VALIDATE $? "Installing nodejs"
+VALIDATE $? "Installing nodejs"  
